@@ -58,6 +58,6 @@ The website www.google.com is: Legitimate
 This project is licensed under the MIT License.
 
 ## Contact
-For queries, please reach out via GitHub issues or email at `your-email@example.com`.
+For queries, please reach out via GitHub issues or email at `babli.gupta.cs28@iilm.edu`.
 
 
