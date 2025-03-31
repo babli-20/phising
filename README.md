@@ -13,7 +13,7 @@ This project implements a machine learning model to detect phishing websites. It
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/phishing-detection.git
+   git clone https://github.com/babli-20/phishing-detection.git
    cd phishing-detection
    ```
 2. Install the required dependencies:
